@@ -1,0 +1,17 @@
+{
+  "name": "mock-server",
+  "version": "0.0.0",
+  "description": "Mock server to intercept calls from the kensa tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Nygaard <https://nygaard.site>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chalk": "^2.3.2",
+    "express": "^4.16.3",
+    "util": "^0.10.3"
+  }
+}

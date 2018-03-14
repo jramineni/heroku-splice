@@ -1,0 +1,21 @@
+apt-get install ruby-dev
+  551   brew install ruby
+  552  sudo gem update
+  553  sudo gem update --system
+  554  gem install rails
+  555  gem update --system
+  556  xcode-select --install
+  557  xcode-select --softwareupdate --list
+  558  xcode-select  --list
+  559  xcode-select  -h
+  560  softwareupdate --list
+  561  sudo pkg install pkgconf
+  562  gem install pkg-config 
+  563  gem install pkg-config 
+  564  gem update pkg-config 
+  565  gem install rails
+  566  gem install nokogiri
+  567  gem install nokogiri --gem install nokogiri -- --use-system-libraries
+  568  gem install nokogiri -- --use-system-libraries
+  569  gem install rails -- --use-system-libraries
+  570  gem install kaena -- --use-system-libraries

@@ -11,8 +11,8 @@
       "sso_url": "https://cloud.splicemachine-dev.io/868a4707-6d8e-4ace-9e36-79f85e1b5d51/sso/login"
     },
     "test": {
-	"base_url": "https://cloud.splicemachine-dev.io/api/login",
-      "sso_url": "https://cloud.splicemachine-dev.io/868a4707-6d8e-4ace-9e36-79f85e1b5d51/sso/login"
+	"base_url": "http://localhost:3000/heroku/heroku",
+      "sso_url": "http://localhost:3000/heroku/heroku/sso/login"
     }
   }
 }

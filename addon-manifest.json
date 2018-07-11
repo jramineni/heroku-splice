@@ -14,15 +14,15 @@
     ],
     "sso_salt": "b58b72c42f14935d6aa534484978ed23",
     "production": {
-      "sso_url": "https://cloud.splicemachine-dev.io/868a4707-6d8e-4ace-9e36-79f85e1b5d51/sso/login",
-      "base_url": "https://cloud.splicemachine-dev.io/868a4707-6d8e-4ace-9e36-79f85e1b5d51/heroku/resources"
+      "sso_url": "https://cloud.splicemachine-dev.io/heroku/heroku/sso/login",
+      "base_url": "https://cloud.splicemachine-dev.io/heroku"
     },
     "config_vars": [
       "SPLICEDB_URL"
     ]
   },
   "name": "Splice Machine",
-  "$base": 152876614825778,
+  "$base": 153030070742451,
   "version": "3",
   "cli_plugin_name": "heroku-splice"
 }

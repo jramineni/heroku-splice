@@ -1,0 +1,28 @@
+{
+  "id": "splicedb",
+  "api": {
+    "test": {
+      "sso_url": "http://localhost:3000/heroku/heroku/sso/login",
+      "base_url": "http://localhost:3000/heroku/heroku"
+    },
+    "regions": [
+      "us"
+    ],
+    "password": "ea350710bf9794a360142bdaf3d860bf",
+    "requires": [
+
+    ],
+    "sso_salt": "b58b72c42f14935d6aa534484978ed23",
+    "production": {
+      "sso_url": "https://cloud.splicemachine.io/heroku/heroku/sso/login",
+      "base_url": "https://cloud.splicemachine.io/heroku"
+    },
+    "config_vars": [
+      "SPLICEDB_URL"
+    ]
+  },
+  "name": "Splice Machine",
+  "$base": 153729137635411,
+  "version": "3",
+  "cli_plugin_name": "heroku-splice"
+}

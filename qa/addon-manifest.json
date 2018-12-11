@@ -18,7 +18,9 @@
       "base_url": "https://cloud.splicemachine-qa.io/heroku"
     },
     "config_vars": [
-      "SPLICEDB_QA_URL"
+      "SPLICEDB_QA_URL",
+      "SPLICEDB_QA_USER",
+      "SPLICEDB_QA_PWD"
     ]
   },
   "name": "Splice Machine",

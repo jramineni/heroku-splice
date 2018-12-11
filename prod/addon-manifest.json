@@ -18,11 +18,13 @@
       "base_url": "https://cloud.splicemachine.io/heroku"
     },
     "config_vars": [
-      "SPLICEDB_URL"
+      "SPLICEDB_URL",
+      "SPLICEDB_USER",
+      "SPLICEDB_PWD"
     ]
   },
   "name": "Splice Machine",
-  "$base": 153729137635411,
+  "$base": 154457188522782,
   "version": "3",
   "cli_plugin_name": "heroku-splice"
 }

@@ -24,7 +24,7 @@
     ]
   },
   "name": "Splice Machine",
-  "$base": 153723052121848,
+  "$base": 153992653358615,
   "version": "3",
   "cli_plugin_name": "heroku-splice"
 }
